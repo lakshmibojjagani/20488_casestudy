@@ -35,4 +35,31 @@ Mobile No:<input type="text" name="Mobile No" value=""><br><br>
 <head>
 <title>Specialist</title>
 </head>
+<body>
+<form align="center">
+<h1><label>Specialist</label><br><br></h1>
+<input type="radio" name="Specialist" value="Cardiology"/>Cardiology<br><br>
+    <input type="radio" name="Specialist" value="Corneal Transplant"/>Corneal Transplant<br><br>
+    <input type="radio" name="Specialist" value="General Surgery"/>General Surgery<br><br>
+    <input type="radio" name="Specialist" value="Infectious Diseases"/>Infectious Diseases<br><br>
+    <input type="radio" name="Specialist" value="In-Vitro Fertilisation"/>In-Vitro Fertilisation<br><br>
+    <input type="radio" name="Specialist" value="Laboratory Medicine"/>Laboratory Medicine<br><br>
+    <input type="radio" name="Specialist" value="Liver Transplant & Hepatic Surgery"/>Liver Transplant & Hepatic Surgery<br><br>
+    <a href="Slot.html">Next</a>
+</form>
+</body>
+</html>
 
+
+
+<html>
+<head>
+<title>Treatment</title>
+</head>
+<body>
+<form align="center">
+Medicines:<input type="textarea" name="Medicines" value=""><br><br>
+<input type="submit" name="submit" vallue="submit">
+</form>
+</body>
+</html>
